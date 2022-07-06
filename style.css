@@ -1,0 +1,348 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+
+}
+
+.header-top {
+    height: 600px;
+    background-image: url(/images/donation5.jpg);
+    background-repeat: no-repeat;
+}
+
+.background-color {
+    width: 100%;
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.747);
+}
+
+.text-position {
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+
+.text-position h1 {
+    font-size: 50px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: #ff5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.section-number-two {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.section-number-two h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.section-number-two p {
+    color: #707070;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.amount-money {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: #707070;
+    font-weight: bold;
+}
+
+.box-design {
+    width: 120px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffeeee;
+    margin-left: 70px;
+    border-radius: 5px;
+    border: 2px solid #e04f51;
+}
+
+.two p {
+    color: #e04f51;
+    margin-top: 50px;
+}
+
+.third {
+    margin-left: 70px
+}
+
+.four {
+    margin-left: 70px
+}
+
+.five {
+    margin-left: 70px
+}
+
+.other-amount {
+    font-size: 14px;
+    margin-bottom: -40px;
+}
+
+.Donate-Now {
+    margin-top: 40px
+}
+
+.section-number-third {
+    margin-top: 100px;
+}
+
+.section-number-third h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.text-center {
+    color: #707070;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.divided {
+    display: flex;
+}
+
+.box-one {
+    width: 300px;
+    height: 260px;
+    background-color: #e05254;
+    padding: 30px;
+    margin-right: 30px;
+}
+
+.box-two {
+    width: 300px;
+    height: 260px;
+    background-color: #e46769;
+    padding: 30px;
+    margin-right: 30px;
+}
+
+.box-third {
+    width: 300px;
+    height: 260px;
+    background-color: #e87d7f;
+    padding: 30px;
+}
+
+.my-new {
+    margin-top: 100px;
+}
+
+.donate-text h2 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.donate-text p {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.donate-bg {
+    background-color: #fbe9ea;
+    height: 400px;
+}
+
+.donate-content-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px;
+}
+
+.donate-content-one {
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 50px;
+    border: 7px solid #e04f51;
+}
+
+
+.donate-content-one h3 {
+    font-size: 80px;
+    padding: 15px;
+    margin-left: 5px;
+    color: #e04f51
+}
+
+.donate-content-two {
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 50px;
+    border: 7px solid #e04f51;
+}
+
+
+.donate-content-two h3 {
+    font-size: 80px;
+    padding: 15px;
+    margin-left: 5px;
+    color: #e04f51
+}
+
+.donate-content-third {
+    width: 150px;
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border: 7px solid #e04f51;
+}
+
+
+.donate-content-third h3 {
+    font-size: 80px;
+    padding: 15px;
+    margin-left: 5px;
+    color: #e04f51
+}
+
+
+.section-number-four {
+    display: flex;
+    margin-top: 100px;
+}
+
+.left-content {
+    width: 50%;
+    margin-right: 60px;
+}
+
+.left-content h1 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+.left-content p {
+    margin-bottom: 30px;
+}
+
+.picture {
+    width: 50%;
+}
+
+.picture img {
+    width: 100%;
+}
+
+.section-number-five {
+    display: flex;
+    margin-top: 100px;
+}
+
+.right-content {
+    width: 50%;
+    margin-left: 60px;
+}
+
+.right-content h1 {
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 50px;
+    margin-bottom: 20px;
+}
+
+.right-content p {
+    margin-bottom: 30px;
+}
+
+.section-number-six {
+    margin-top: 100px;
+}
+
+.section-number-six h2 {
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.section-number-six p {
+    margin-bottom: 10px;
+    text-align: center;
+    color: #787878;
+    margin-bottom: 30px;
+}
+
+.submit {
+    width: 250px;
+    height: 36px;
+}
+
+.submit-area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-area-bg {
+    width: 700px;
+    height: 200px;
+    background-color: #fff4d6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.finish {
+    margin-top: 100px;
+    background-color: #0b0d17;
+    height: 150px;
+}
+
+.finish h3 {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    color: #e04f51;
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.finish p {
+    text-align: center;
+    color: #ffffff;
+    margin-top: -30px;
+}
