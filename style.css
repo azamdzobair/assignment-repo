@@ -351,6 +351,16 @@ body {
     height: 36px;
 }
 
+.button {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+    background-color: #e04f51;
+    border: 2px solid #e04f51;
+}
+
 .submit-area {
     display: flex;
     justify-content: center;
