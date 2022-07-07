@@ -69,43 +69,82 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 35px;
+}
+
+.one {
+    width: 120px;
+    height: 100px;
+    background-color: #fafafa;
+    margin-right: 70px;
+}
+
+.one p {
+    margin-top: 25px;
     color: #707070;
+    font-size: 35px;
     font-weight: bold;
 }
 
-.box-design {
+.two {
     width: 120px;
     height: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-color: #ffeeee;
-    margin-left: 70px;
-    border-radius: 5px;
+    margin-right: 70px;
     border: 2px solid #e04f51;
 }
 
 .two p {
-    color: #e04f51;
-    margin-top: 50px;
+    margin-top: 25px;
+    color: #ff5959;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 .third {
-    margin-left: 70px
+    width: 120px;
+    height: 100px;
+    background-color: #fafafa;
+    margin-right: 70px;
+}
+
+.third p {
+    margin-top: 25px;
+    color: #707070;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 .four {
-    margin-left: 70px
+    width: 120px;
+    height: 100px;
+    background-color: #fafafa;
+    margin-right: 70px;
+}
+
+.four p {
+    margin-top: 25px;
+    color: #707070;
+    font-size: 35px;
+    font-weight: bold;
 }
 
 .five {
-    margin-left: 70px
+    width: 120px;
+    height: 100px;
+    background-color: #fafafa;
 }
 
-.other-amount {
+.five p {
+    margin-top: 25px;
+    color: #707070;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.other-amount p {
     font-size: 14px;
-    margin-bottom: -40px;
+    margin-top: 50px;
+    margin-bottom: 10px;
 }
 
 .Donate-Now {
